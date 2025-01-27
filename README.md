@@ -32,10 +32,9 @@ git clone https://github.com/your-username/DevOps-Monitoring-System.git
 cd DevOps-Monitoring-System
 
 ## 2. Build and Push Docker Image
-Navigate to the `src/app` directory to build and push the Docker image:
+
 
 ```bash
-cd src/app
 docker build -t your-dockerhub-username/sample-app .
 docker push your-dockerhub-username/sample-app
 ```
