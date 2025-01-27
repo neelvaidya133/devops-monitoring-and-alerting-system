@@ -1,0 +1,8 @@
+prometheus:
+  prometheusSpec:
+    ruleFiles:
+      - /etc/prometheus/alerts.yaml
+    additionalScrapeConfigs:
+      - job_name: "sample-app"
+        static_configs:
+          - targets: ["sample-app-service:3000"]
