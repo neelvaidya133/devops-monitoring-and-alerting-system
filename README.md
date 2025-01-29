@@ -74,21 +74,10 @@ Open your browser and visit:
 ```http
 http://localhost:3000
 ```
+## 📜 License
 
-## Proof of Work
-### Screenshots
-- **Grafana Dashboard:**
+This project is licensed under the [MIT License](LICENSE).
 
-- **Prometheus Alerts:**
+---
 
-- **Running Kubernetes Pods:**
-
-- All inside the screenshot folder
-
-
-## Author
-Your Name  
-[LinkedIn](https://linkedin.com/in/neelvaidya133)  
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Made with ❤️ by **Neel Vaidya**
